@@ -135,3 +135,7 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+
+
+###################### Custom ######################
+/Assets/DownloadedAssets/*
